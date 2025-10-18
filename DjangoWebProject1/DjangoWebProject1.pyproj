@@ -32,6 +32,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="app\crear_clientes.py" />
     <Compile Include="app\forms.py" />
     <Compile Include="app\models.py" />
     <Compile Include="app\tests.py" />
@@ -54,9 +55,11 @@
     <Folder Include="app\static\app\scripts\" />
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
-    <Folder Include="DjangoWebProject1\" />
+    <Folder Include="app\DjangoWebProject1\" />
+    <Folder Include="app\Json\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\Json\ancianos.json" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />

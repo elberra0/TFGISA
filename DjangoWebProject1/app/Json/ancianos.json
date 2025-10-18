@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellidos": "P�rez G�mez",
+    "edad": 78,
+    "fecha_ingreso": "2022-05-10",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 2,
+    "nombre": "Mar�a",
+    "apellidos": "L�pez Mart�nez",
+    "edad": 82,
+    "fecha_ingreso": "2023-01-15",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 3,
+    "nombre": "Jos�",
+    "apellidos": "Rodr�guez S�nchez",
+    "edad": 85,
+    "fecha_ingreso": "2021-11-20",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 4,
+    "nombre": "Carmen",
+    "apellidos": "Garc�a Fern�ndez",
+    "edad": 79,
+    "fecha_ingreso": "2020-08-05",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 5,
+    "nombre": "Antonio",
+    "apellidos": "Ruiz D�az",
+    "edad": 80,
+    "fecha_ingreso": "2024-03-12",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 6,
+    "nombre": "Dolores",
+    "apellidos": "Morales Jim�nez",
+    "edad": 76,
+    "fecha_ingreso": "2022-10-22",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 7,
+    "nombre": "Francisco",
+    "apellidos": "S�nchez Ortega",
+    "edad": 83,
+    "fecha_ingreso": "2023-06-18",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 8,
+    "nombre": "Isabel",
+    "apellidos": "Torres Ruiz",
+    "edad": 88,
+    "fecha_ingreso": "2019-12-30",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 9,
+    "nombre": "Manuel",
+    "apellidos": "Jim�nez Navarro",
+    "edad": 81,
+    "fecha_ingreso": "2021-09-14",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 10,
+    "nombre": "Mar�a Luisa",
+    "apellidos": "G�mez Castro",
+    "edad": 75,
+    "fecha_ingreso": "2022-01-26",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 11,
+    "nombre": "Luis",
+    "apellidos": "Hern�ndez Morales",
+    "edad": 84,
+    "fecha_ingreso": "2018-07-20",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 12,
+    "nombre": "Antonia",
+    "apellidos": "Cruz Rodr�guez",
+    "edad": 79,
+    "fecha_ingreso": "2020-05-03",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 13,
+    "nombre": "Javier",
+    "apellidos": "Mar�n L�pez",
+    "edad": 82,
+    "fecha_ingreso": "2023-03-17",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 14,
+    "nombre": "Rosa",
+    "apellidos": "Blanco Fern�ndez",
+    "edad": 78,
+    "fecha_ingreso": "2022-11-05",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 15,
+    "nombre": "Pedro",
+    "apellidos": "Garc�a Ram�rez",
+    "edad": 80,
+    "fecha_ingreso": "2021-08-29",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 16,
+    "nombre": "Mar�a Teresa",
+    "apellidos": "Vargas Ruiz",
+    "edad": 77,
+    "fecha_ingreso": "2022-04-12",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 17,
+    "nombre": "Fernando",
+    "apellidos": "Mendoza Castillo",
+    "edad": 83,
+    "fecha_ingreso": "2019-10-19",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 18,
+    "nombre": "Pilar",
+    "apellidos": "Santos L�pez",
+    "edad": 75,
+    "fecha_ingreso": "2023-07-09",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 19,
+    "nombre": "Ram�n",
+    "apellidos": "Ortiz Herrera",
+    "edad": 81,
+    "fecha_ingreso": "2022-03-25",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 20,
+    "nombre": "Esther",
+    "apellidos": "Medina Rivera",
+    "edad": 79,
+    "fecha_ingreso": "2021-12-06",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 21,
+    "nombre": "Alfredo",
+    "apellidos": "Campos G�mez",
+    "edad": 80,
+    "fecha_ingreso": "2020-09-15",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 22,
+    "nombre": "Encarna",
+    "apellidos": "Delgado Ruiz",
+    "edad": 77,
+    "fecha_ingreso": "2019-11-22",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 23,
+    "nombre": "Vicente",
+    "apellidos": "Castillo Moreno",
+    "edad": 84,
+    "fecha_ingreso": "2023-05-28",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 24,
+    "nombre": "Marta",
+    "apellidos": "Romero P�rez",
+    "edad": 75,
+    "fecha_ingreso": "2022-02-14",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 25,
+    "nombre": "Joaqu�n",
+    "apellidos": "Serrano Torres",
+    "edad": 79,
+    "fecha_ingreso": "2021-07-03",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 26,
+    "nombre": "Aurora",
+    "apellidos": "Ramos Jim�nez",
+    "edad": 81,
+    "fecha_ingreso": "2020-06-19",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 27,
+    "nombre": "Ignacio",
+    "apellidos": "Moreno Castro",
+    "edad": 78,
+    "fecha_ingreso": "2022-09-30",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 28,
+    "nombre": "Francisca",
+    "apellidos": "Vega Molina",
+    "edad": 83,
+    "fecha_ingreso": "2023-04-07",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 29,
+    "nombre": "Salvador",
+    "apellidos": "Herrera Gil",
+    "edad": 75,
+    "fecha_ingreso": "2021-10-11",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 30,
+    "nombre": "Gloria",
+    "apellidos": "N��ez Pe�a",
+    "edad": 80,
+    "fecha_ingreso": "2022-01-04",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 31,
+    "nombre": "Carlos",
+    "apellidos": "Molina Ortiz",
+    "edad": 79,
+    "fecha_ingreso": "2020-08-14",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 32,
+    "nombre": "Concepci�n",
+    "apellidos": "S�nchez Vidal",
+    "edad": 81,
+    "fecha_ingreso": "2023-06-01",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 33,
+    "nombre": "Ramona",
+    "apellidos": "G�mez Le�n",
+    "edad": 77,
+    "fecha_ingreso": "2019-12-25",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 34,
+    "nombre": "Mart�n",
+    "apellidos": "Gil D�az",
+    "edad": 83,
+    "fecha_ingreso": "2022-03-10",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 35,
+    "nombre": "Sof�a",
+    "apellidos": "Castro Blanco",
+    "edad": 78,
+    "fecha_ingreso": "2020-10-05",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 36,
+    "nombre": "Daniel",
+    "apellidos": "R�os S�nchez",
+    "edad": 80,
+    "fecha_ingreso": "2021-05-19",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 37,
+    "nombre": "Teresa",
+    "apellidos": "Rom�n Morales",
+    "edad": 79,
+    "fecha_ingreso": "2019-09-29",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 38,
+    "nombre": "Emilio",
+    "apellidos": "Guerrero P�rez",
+    "edad": 81,
+    "fecha_ingreso": "2023-01-23",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 39,
+    "nombre": "Lourdes",
+    "apellidos": "Mar�n Ruiz",
+    "edad": 75,
+    "fecha_ingreso": "2022-07-16",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 40,
+    "nombre": "Vicente",
+    "apellidos": "Ramos Torres",
+    "edad": 83,
+    "fecha_ingreso": "2021-11-30",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 41,
+    "nombre": "Amparo",
+    "apellidos": "D�az L�pez",
+    "edad": 77,
+    "fecha_ingreso": "2020-02-27",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 42,
+    "nombre": "Ferm�n",
+    "apellidos": "P�rez Castillo",
+    "edad": 80,
+    "fecha_ingreso": "2023-03-09",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 43,
+    "nombre": "Natalia",
+    "apellidos": "Guti�rrez Fern�ndez",
+    "edad": 75,
+    "fecha_ingreso": "2022-06-12",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 44,
+    "nombre": "Ram�n",
+    "apellidos": "Ortiz S�nchez",
+    "edad": 79,
+    "fecha_ingreso": "2021-08-20",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 45,
+    "nombre": "Elena",
+    "apellidos": "Mora Gil",
+    "edad": 81,
+    "fecha_ingreso": "2020-12-07",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 46,
+    "nombre": "Jorge",
+    "apellidos": "Reyes Morales",
+    "edad": 78,
+    "fecha_ingreso": "2023-05-22",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 47,
+    "nombre": "Patricia",
+    "apellidos": "Cruz Herrera",
+    "edad": 82,
+    "fecha_ingreso": "2022-02-28",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 48,
+    "nombre": "Luis",
+    "apellidos": "Santos Castillo",
+    "edad": 77,
+    "fecha_ingreso": "2021-09-13",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 49,
+    "nombre": "Mercedes",
+    "apellidos": "Vargas Ruiz",
+    "edad": 83,
+    "fecha_ingreso": "2020-10-31",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 50,
+    "nombre": "Ignacio",
+    "apellidos": "Blanco G�mez",
+    "edad": 75,
+    "fecha_ingreso": "2023-06-14",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 51,
+    "nombre": "Cecilia",
+    "apellidos": "Medina L�pez",
+    "edad": 79,
+    "fecha_ingreso": "2022-01-07",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 52,
+    "nombre": "H�ctor",
+    "apellidos": "G�mez Morales",
+    "edad": 81,
+    "fecha_ingreso": "2021-05-25",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 53,
+    "nombre": "Juana",
+    "apellidos": "Herrera S�nchez",
+    "edad": 78,
+    "fecha_ingreso": "2020-07-18",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 54,
+    "nombre": "�scar",
+    "apellidos": "Castillo Ruiz",
+    "edad": 80,
+    "fecha_ingreso": "2023-04-04",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 55,
+    "nombre": "Rosa Mar�a",
+    "apellidos": "Romero D�az",
+    "edad": 76,
+    "fecha_ingreso": "2022-09-26",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 56,
+    "nombre": "Alberto",
+    "apellidos": "Jim�nez Castillo",
+    "edad": 83,
+    "fecha_ingreso": "2021-12-15",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 57,
+    "nombre": "Marina",
+    "apellidos": "S�nchez Morales",
+    "edad": 75,
+    "fecha_ingreso": "2020-03-08",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 58,
+    "nombre": "Enrique",
+    "apellidos": "Garc�a Fern�ndez",
+    "edad": 81,
+    "fecha_ingreso": "2023-01-12",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 59,
+    "nombre": "M�nica",
+    "apellidos": "Castro Jim�nez",
+    "edad": 78,
+    "fecha_ingreso": "2022-06-05",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 60,
+    "nombre": "Jes�s",
+    "apellidos": "Ramos Ruiz",
+    "edad": 80,
+    "fecha_ingreso": "2021-11-02",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 61,
+    "nombre": "Teresa",
+    "apellidos": "Moreno L�pez",
+    "edad": 75,
+    "fecha_ingreso": "2020-08-21",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 62,
+    "nombre": "Andr�s",
+    "apellidos": "D�az Castillo",
+    "edad": 83,
+    "fecha_ingreso": "2023-05-10",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 63,
+    "nombre": "Laura",
+    "apellidos": "Vega Hern�ndez",
+    "edad": 77,
+    "fecha_ingreso": "2022-03-28",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 64,
+    "nombre": "Ra�l",
+    "apellidos": "Jim�nez Santos",
+    "edad": 80,
+    "fecha_ingreso": "2021-09-01",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 65,
+    "nombre": "Beatriz",
+    "apellidos": "Ortiz G�mez",
+    "edad": 76,
+    "fecha_ingreso": "2020-05-19",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 66,
+    "nombre": "Santiago",
+    "apellidos": "Duarte Ruiz",
+    "edad": 82,
+    "fecha_ingreso": "2023-04-22",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 67,
+    "nombre": "Nuria",
+    "apellidos": "Mar�n Rodr�guez",
+    "edad": 78,
+    "fecha_ingreso": "2022-01-30",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 68,
+    "nombre": "Pedro",
+    "apellidos": "Velasco Jim�nez",
+    "edad": 80,
+    "fecha_ingreso": "2021-07-15",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 69,
+    "nombre": "Gloria",
+    "apellidos": "Blanco Castro",
+    "edad": 77,
+    "fecha_ingreso": "2020-10-27",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  },
+  {
+    "id": 70,
+    "nombre": "Ramona",
+    "apellidos": "Vega Morales",
+    "edad": 77,
+    "fecha_ingreso": "2019-09-18",
+    "medicamentos": "",
+    "enfermero_asignado": ""
+  }
+]
