@@ -75,10 +75,16 @@ TEMPLATES = [
 WSGI_APPLICATION = 'DjangoWebProject1.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'mibasededatos',
+        'USER': 'admin',
+        'PASSWORD': 'adminisapro',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 

@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laura",
+    "apellido": "García",
+    "clientes": null,
+    "salario": 26000,
+    "inicio_contrato": "2015-03-12",
+    "numero_seguridad_social": "12345678901"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos",
+    "apellido": "Martínez",
+    "clientes": null,
+    "salario": 28000,
+    "inicio_contrato": "2018-07-04",
+    "numero_seguridad_social": "22345678902"
+  },
+  {
+    "id": 3,
+    "nombre": "María",
+    "apellido": "Rodríguez",
+    "clientes": null,
+    "salario": 30000,
+    "inicio_contrato": "2013-11-23",
+    "numero_seguridad_social": "32345678903"
+  },
+  {
+    "id": 4,
+    "nombre": "José",
+    "apellido": "López",
+    "clientes": null,
+    "salario": 27500,
+    "inicio_contrato": "2017-01-15",
+    "numero_seguridad_social": "42345678904"
+  },
+  {
+    "id": 5,
+    "nombre": "Ana",
+    "apellido": "Sánchez",
+    "clientes": null,
+    "salario": 25000,
+    "inicio_contrato": "2019-09-30",
+    "numero_seguridad_social": "52345678905"
+  },
+  {
+    "id": 6,
+    "nombre": "David",
+    "apellido": "Pérez",
+    "clientes": null,
+    "salario": 29000,
+    "inicio_contrato": "2012-05-21",
+    "numero_seguridad_social": "62345678906"
+  },
+  {
+    "id": 7,
+    "nombre": "Sofía",
+    "apellido": "Gómez",
+    "clientes": null,
+    "salario": 26500,
+    "inicio_contrato": "2016-12-12",
+    "numero_seguridad_social": "72345678907"
+  },
+  {
+    "id": 8,
+    "nombre": "Miguel",
+    "apellido": "Fernández",
+    "clientes": null,
+    "salario": 27000,
+    "inicio_contrato": "2014-04-10",
+    "numero_seguridad_social": "82345678908"
+  },
+  {
+    "id": 9,
+    "nombre": "Isabel",
+    "apellido": "Ruiz",
+    "clientes": null,
+    "salario": 25500,
+    "inicio_contrato": "2017-08-05",
+    "numero_seguridad_social": "92345678909"
+  },
+  {
+    "id": 10,
+    "nombre": "Javier",
+    "apellido": "Díaz",
+    "clientes": null,
+    "salario": 28500,
+    "inicio_contrato": "2013-03-30",
+    "numero_seguridad_social": "10345678910"
+  },
+  {
+    "id": 11,
+    "nombre": "Lucía",
+    "apellido": "Moreno",
+    "clientes": null,
+    "salario": 26000,
+    "inicio_contrato": "2015-10-25",
+    "numero_seguridad_social": "11345678911"
+  },
+  {
+    "id": 12,
+    "nombre": "Pablo",
+    "apellido": "Alonso",
+    "clientes": null,
+    "salario": 29500,
+    "inicio_contrato": "2011-06-15",
+    "numero_seguridad_social": "12345678912"
+  },
+  {
+    "id": 13,
+    "nombre": "Carla",
+    "apellido": "González",
+    "clientes": null,
+    "salario": 27000,
+    "inicio_contrato": "2016-02-29",
+    "numero_seguridad_social": "13345678913"
+  },
+  {
+    "id": 14,
+    "nombre": "Diego",
+    "apellido": "Navarro",
+    "clientes": null,
+    "salario": 28000,
+    "inicio_contrato": "2013-09-19",
+    "numero_seguridad_social": "14345678914"
+  },
+  {
+    "id": 15,
+    "nombre": "Elena",
+    "apellido": "Santos",
+    "clientes": null,
+    "salario": 25000,
+    "inicio_contrato": "2018-11-03",
+    "numero_seguridad_social": "15345678915"
+  },
+  {
+    "id": 16,
+    "nombre": "Manuel",
+    "apellido": "Vargas",
+    "clientes": null,
+    "salario": 26500,
+    "inicio_contrato": "2014-07-22",
+    "numero_seguridad_social": "16345678916"
+  },
+  {
+    "id": 17,
+    "nombre": "Marta",
+    "apellido": "Castro",
+    "clientes": null,
+    "salario": 27500,
+    "inicio_contrato": "2015-01-15",
+    "numero_seguridad_social": "17345678917"
+  },
+  {
+    "id": 18,
+    "nombre": "Raúl",
+    "apellido": "Ortiz",
+    "clientes": null,
+    "salario": 28500,
+    "inicio_contrato": "2012-12-03",
+    "numero_seguridad_social": "18345678918"
+  },
+  {
+    "id": 19,
+    "nombre": "Sandra",
+    "apellido": "Medina",
+    "clientes": null,
+    "salario": 26000,
+    "inicio_contrato": "2017-05-11",
+    "numero_seguridad_social": "19345678919"
+  },
+  {
+    "id": 20,
+    "nombre": "Alberto",
+    "apellido": "Ramos",
+    "clientes": null,
+    "salario": 29000,
+    "inicio_contrato": "2013-08-27",
+    "numero_seguridad_social": "20345678920"
+  },
+  {
+    "id": 21,
+    "nombre": "Cristina",
+    "apellido": "Gil",
+    "clientes": null,
+    "salario": 25500,
+    "inicio_contrato": "2016-04-14",
+    "numero_seguridad_social": "21345678921"
+  },
+  {
+    "id": 22,
+    "nombre": "Francisco",
+    "apellido": "Molina",
+    "clientes": null,
+    "salario": 27500,
+    "inicio_contrato": "2011-09-09",
+    "numero_seguridad_social": "22345678922"
+  },
+  {
+    "id": 23,
+    "nombre": "Juana",
+    "apellido": "Torres",
+    "clientes": null,
+    "salario": 26500,
+    "inicio_contrato": "2015-12-30",
+    "numero_seguridad_social": "23345678923"
+  },
+  {
+    "id": 24,
+    "nombre": "Ricardo",
+    "apellido": "Campos",
+    "clientes": null,
+    "salario": 28000,
+    "inicio_contrato": "2014-06-21",
+    "numero_seguridad_social": "24345678924"
+  },
+  {
+    "id": 25,
+    "nombre": "Lucía",
+    "apellido": "Morales",
+    "clientes": null,
+    "salario": 26000,
+    "inicio_contrato": "2017-04-10",
+    "numero_seguridad_social": "25345678925"
+  },
+  {
+    "id": 26,
+    "nombre": "Sergio",
+    "apellido": "Iglesias",
+    "clientes": null,
+    "salario": 29000,
+    "inicio_contrato": "2013-10-15",
+    "numero_seguridad_social": "26345678926"
+  },
+  {
+    "id": 27,
+    "nombre": "Verónica",
+    "apellido": "Vega",
+    "clientes": null,
+    "salario": 25000,
+    "inicio_contrato": "2016-01-31",
+    "numero_seguridad_social": "27345678927"
+  },
+  {
+    "id": 28,
+    "nombre": "Antonio",
+    "apellido": "Serrano",
+    "clientes": null,
+    "salario": 28000,
+    "inicio_contrato": "2015-11-15",
+    "numero_seguridad_social": "28345678928"
+  },
+  {
+    "id": 29,
+    "nombre": "Paula",
+    "apellido": "Fuentes",
+    "clientes": null,
+    "salario": 26500,
+    "inicio_contrato": "2014-03-12",
+    "numero_seguridad_social": "29345678929"
+  },
+  {
+    "id": 30,
+    "nombre": "Luis",
+    "apellido": "Márquez",
+    "clientes": null,
+    "salario": 27000,
+    "inicio_contrato": "2012-07-20",
+    "numero_seguridad_social": "30345678930"
+  },
+  {
+    "id": 31,
+    "nombre": "Nuria",
+    "apellido": "Paredes",
+    "clientes": null,
+    "salario": 25500,
+    "inicio_contrato": "2017-09-05",
+    "numero_seguridad_social": "31345678931"
+  },
+  {
+    "id": 32,
+    "nombre": "Jorge",
+    "apellido": "Rivas",
+    "clientes": null,
+    "salario": 27500,
+    "inicio_contrato": "2013-05-06",
+    "numero_seguridad_social": "32345678932"
+  },
+  {
+    "id": 33,
+    "nombre": "Silvia",
+    "apellido": "Herrera",
+    "clientes": null,
+    "salario": 26000,
+    "inicio_contrato": "2016-12-01",
+    "numero_seguridad_social": "33345678933"
+  },
+  {
+    "id": 34,
+    "nombre": "Fernando",
+    "apellido": "Lara",
+    "clientes": null,
+    "salario": 28000,
+    "inicio_contrato": "2014-10-10",
+    "numero_seguridad_social": "34345678934"
+  },
+  {
+    "id": 35,
+    "nombre": "Rosa",
+    "apellido": "Mendoza",
+    "clientes": null,
+    "salario": 26500,
+    "inicio_contrato": "2015-07-22",
+    "numero_seguridad_social": "35345678935"
+  },
+  {
+    "id": 36,
+    "nombre": "Alfredo",
+    "apellido": "Núñez",
+    "clientes": null,
+    "salario": 27500,
+    "inicio_contrato": "2013-01-14",
+    "numero_seguridad_social": "36345678936"
+  },
+  {
+    "id": 37,
+    "nombre": "Patricia",
+    "apellido": "Vidal",
+    "clientes": null,
+    "salario": 26000,
+    "inicio_contrato": "2016-11-03",
+    "numero_seguridad_social": "37345678937"
+  },
+  {
+    "id": 38,
+    "nombre": "Javier",
+    "apellido": "Campos",
+    "clientes": null,
+    "salario": 28000,
+    "inicio_contrato": "2015-05-19",
+    "numero_seguridad_social": "38345678938"
+  },
+  {
+    "id": 39,
+    "nombre": "Carmen",
+    "apellido": "Rojas",
+    "clientes": null,
+    "salario": 26500,
+    "inicio_contrato": "2014-08-07",
+    "numero_seguridad_social": "39345678939"
+  },
+  {
+    "id": 40,
+    "nombre": "Ricardo",
+    "apellido": "Moya",
+    "clientes": null,
+    "salario": 27500,
+    "inicio_contrato": "2013-03-25",
+    "numero_seguridad_social": "40345678940"
+  }
+]

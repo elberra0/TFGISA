@@ -33,6 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app\crear_clientes.py" />
+    <Compile Include="app\crear_enfermeros_medicamentos.py" />
     <Compile Include="app\forms.py" />
     <Compile Include="app\models.py" />
     <Compile Include="app\tests.py" />
@@ -57,8 +58,11 @@
     <Folder Include="app\templates\app\" />
     <Folder Include="app\DjangoWebProject1\" />
     <Folder Include="app\Json\" />
+    <Folder Include="DjangoWebProject1\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\Json\enfermeros.json" />
+    <Content Include="app\Json\medicamentos.json" />
     <Content Include="app\Json\ancianos.json" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
